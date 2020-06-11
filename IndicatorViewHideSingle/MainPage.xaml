@@ -12,7 +12,7 @@
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
 
-        <IndicatorView x:Name="Indicator" IndicatorColor="Black" IndicatorSize="10" Count="1" HideSingle="False"></IndicatorView>
+        <IndicatorView x:Name="Indicator" IndicatorColor="Black" SelectedIndicatorColor="DarkGray" IndicatorSize="10" Count="1" HideSingle="True"></IndicatorView>
     </StackLayout>
 
 </ContentPage>
